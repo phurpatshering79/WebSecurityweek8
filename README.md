@@ -41,7 +41,7 @@ during the processing of shortcode tags are mishandled.
 When a user clicks in the post, the injected code is executed.
 
 3. (Required)WordPress => 4.2 - User Authentication
-- [x] Summary:
+- [x] Summary: Checks whether series of user name is valid or not. When signing in with that username and password as admin.
 - Vulnerability types: user authentication,
 - Tested in version: 4.2
 - [x] GIF Walkthrough: 
