@@ -22,7 +22,7 @@ Time spent: **9** hours spent in total
 
     When the page is viewed, the injected code is executed.
     
-    2. (Required) WordPress <= 4.3 - Authenticated Shortcode Tags Cross-Site Scripting (XSS)
+2. (Required) WordPress <= 4.3 - Authenticated Shortcode Tags Cross-Site Scripting (XSS)
 - [x] Summary: A stored/persistent, Cross-Site script XSS vulnerablilty which allows remote attackers to inject arbitrary web script/HTML by abusing the way unclosed HTML elements
 during the processing of shortcode tags are mishandled.
 - Vulnerability types: XSS
